@@ -1,6 +1,6 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
-const { truncate } = require('./User');
+
 
 //post model
 class Post extends Model {}
@@ -18,7 +18,7 @@ Post.init(
         type: DataTypes.STRING,
         allowNull: false
       },
-      comment_text: {
+      post_text: {
         type: DataTypes.STRING,
         allowNull: false,
         validate: {

@@ -9,4 +9,4 @@ Post.belongsTo(User, {
 });
 
 
-module.exports = { User };
+module.exports = { User, Post };
