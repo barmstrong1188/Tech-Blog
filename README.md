@@ -27,6 +27,8 @@ After you've created your post, it will appear in your Dashboard!
 
 <br>
 If you'd like to change or delete the post, simply click on it to bring up the edit-post page. <br>
+
+
 ![techscrn7](https://user-images.githubusercontent.com/65680645/91697032-76b08100-eb3e-11ea-864e-c51f6cc1b538.png)
 
 
