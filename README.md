@@ -34,3 +34,14 @@ If you'd like to change or delete the post, simply click on it to bring up the e
 What your post looks like after you've logged out. <br>
 
 ![techscrn6](https://user-images.githubusercontent.com/65680645/91696068-0fde9800-eb3d-11ea-8fae-af65c3b85941.png)
+
+# Dependencies
+express<br>
+handlebars<br>
+mySQL2<br>
+express-session<br>
+connect-session-sequelize<br>
+bcrypt<br>
+dotenv<br>
+Sequelize<br>
+
