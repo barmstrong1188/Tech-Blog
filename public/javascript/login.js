@@ -30,7 +30,6 @@ const loginFormHandler = async function(event) {
         method: 'post',
         body: JSON.stringify({
           username,
-          
           password
         }),
         headers: { 'Content-Type': 'application/json' }

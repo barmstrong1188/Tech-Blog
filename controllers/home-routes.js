@@ -6,23 +6,19 @@ router.get("/", (req, res) => {
   Post.findAll({
     include: [User],
   })
-  .then(dbPostData => {
-    const posts = dbPostData.map(post => post.get({ plain: true }));
+    .then((dbPostData) => {
+      const posts = dbPostData.map((post) => post.get({ plain: true }));
 
-    res.render('homepage', {
-      posts,
-      loggedIn: req.session.loggedIn
+      res.render("homepage", { posts });
+    })
+    .catch((err) => {
+      res.status(500).json(err);
     });
-  })
-  .catch(err => {
-    console.log(err);
-    res.status(500).json(err);
-  });
 });
 
 // get single post
 router.get("/post/:id", (req, res) => {
-  Post.findOne(req.params.id, {
+  Post.findByPk(req.params.id, {
     include: [
       User,
       {
