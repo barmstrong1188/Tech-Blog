@@ -4,8 +4,8 @@ This is a CMS-style blog site.
 
 # Link: https://still-tor-69964.herokuapp.com/
 <br>
-![techscrn6](https://user-images.githubusercontent.com/65680645/91756207-5d3d2280-eb9a-11ea-88b5-a562ba231053.png)
-<br>
+ ![techscrn6](https://user-images.githubusercontent.com/65680645/91756207-5d3d2280-eb9a-11ea-88b5-a562ba231053.png)
+ <br>
 
 If it is your first time visiting the site, clicking on the dashboard or login will take you to the signup page. <br>
 
