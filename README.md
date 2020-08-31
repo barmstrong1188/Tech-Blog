@@ -26,6 +26,11 @@ After you've created your post, it will appear in your Dashboard!
 ![techscnrn5](https://user-images.githubusercontent.com/65680645/91696069-0fde9800-eb3d-11ea-8e42-d2783e835ae1.png)
 
 <br>
+If you'd like to change or delete the post, simply click on it to bring up the edit-post page. <br>
+![techscrn7](https://user-images.githubusercontent.com/65680645/91697032-76b08100-eb3e-11ea-864e-c51f6cc1b538.png)
+
+
+<br>
 What your post looks like after you've logged out. <br>
 
 ![techscrn6](https://user-images.githubusercontent.com/65680645/91696068-0fde9800-eb3d-11ea-8fae-af65c3b85941.png)
