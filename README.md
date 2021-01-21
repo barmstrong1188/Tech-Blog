@@ -16,12 +16,12 @@ https://still-tor-69964.herokuapp.com/
 <br>
 
 ## Technology Used
--Javascript
--CSS
--HTML
--nodejs
--Express
--Handlebars
+-Javascript <br>
+-CSS  <br>
+-HTML  <br>
+-nodejs  <br>
+-Express  <br>
+-Handlebars  <br>
 
 ## Dependencies
 express<br>
