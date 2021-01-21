@@ -5,7 +5,7 @@ This is a CMS-style blog site. Without signing in you'll be able to view all the
 ## Link to deployed app
 https://still-tor-69964.herokuapp.com/
 
-##Screenshots
+## Screenshots
 
 ![techscrn2](https://user-images.githubusercontent.com/65680645/91696064-0f460180-eb3d-11ea-845d-e0f5198a5837.png)
 
@@ -15,7 +15,7 @@ https://still-tor-69964.herokuapp.com/
 
 <br>
 
-#Technology Used
+## Technology Used
 -Javascript
 -CSS
 -HTML
@@ -23,7 +23,7 @@ https://still-tor-69964.herokuapp.com/
 -Express
 -Handlebars
 
-# Dependencies
+## Dependencies
 express<br>
 handlebars<br>
 mySQL2<br>
