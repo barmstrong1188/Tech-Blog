@@ -1,4 +1,4 @@
-# TechTalk
+# TechTalk - Blog for all things Tech
 
 ## Table of Contents
 
