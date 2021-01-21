@@ -1,41 +1,27 @@
 # TechTalk
 
-This is a CMS-style blog site.
+This is a CMS-style blog site. Without signing in you'll be able to view all the posts on the site. You can create an account and sign in to see your dashboard. Using your dashboard you can create new posts that can then be viewed on the home page. You can also edit and delete your posts!
 
-# Link: https://still-tor-69964.herokuapp.com/
+## Link to deployed app
+https://still-tor-69964.herokuapp.com/
 
- ![techscrn6](https://user-images.githubusercontent.com/65680645/91756207-5d3d2280-eb9a-11ea-88b5-a562ba231053.png)
- <br>
-
-If it is your first time visiting the site, clicking on the dashboard or login will take you to the signup page. <br>
+##Screenshots
 
 ![techscrn2](https://user-images.githubusercontent.com/65680645/91696064-0f460180-eb3d-11ea-845d-e0f5198a5837.png)
-<br>
-If you already have an account you will be prompted to sign in. <br>
-![techscrn1](https://user-images.githubusercontent.com/65680645/91696063-0ead6b00-eb3d-11ea-8e92-25624be8da5e.png)
-<br>
-After you sign in you will be taken to your Dashboard. <br>  
-
-![techscrn3](https://user-images.githubusercontent.com/65680645/91696065-0f460180-eb3d-11ea-8c0a-1ff34f37f592.png)
-
-<br>
-
-Click "New Post" on the bottom of the page to create a post. <br>
-![techscrn4](https://user-images.githubusercontent.com/65680645/91696066-0f460180-eb3d-11ea-9505-2b359effa714.png)
-
-<br>
-After you've created your post, it will appear in your Dashboard!
 
 ![techscnrn5](https://user-images.githubusercontent.com/65680645/91696069-0fde9800-eb3d-11ea-8e42-d2783e835ae1.png)
 
-<br>
-If you'd like to change or delete the post, simply click on it to bring up the edit-post page. <br>
-
-
-![techscrn7](https://user-images.githubusercontent.com/65680645/91697032-76b08100-eb3e-11ea-864e-c51f6cc1b538.png)
-
+![Screenshot 2021-01-21 173228](https://user-images.githubusercontent.com/65680645/105420625-b15ea700-5c0e-11eb-89c0-b0a21b0ecc6a.png)
 
 <br>
+
+#Technology Used
+-Javascript
+-CSS
+-HTML
+-nodejs
+-Express
+-Handlebars
 
 # Dependencies
 express<br>
