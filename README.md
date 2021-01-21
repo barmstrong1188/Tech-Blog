@@ -1,9 +1,18 @@
 # TechTalk
 
+## Table of Contents
+
+* [Description](#description)
++ [Link to deployed app](#link-to-deployed-app)
+- [Screenshots](#screenshots)
+* [Technology Used](#technology-used)
++ [Dependencies](#dependencies)
+
+## Description
 This is a CMS-style blog site. Without signing in you'll be able to view all the posts on the site. You can create an account and sign in to see your dashboard. Using your dashboard you can create new posts that can then be viewed on the home page. You can also edit and delete your posts!
 
 ## Link to deployed app
-https://still-tor-69964.herokuapp.com/
+[TechTalk - Blog for all things Tech](https://still-tor-69964.herokuapp.com/)
 
 ## Screenshots
 
